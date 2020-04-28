@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Arquivos/Comp/CES-12/lab1hash200313_2221/build/googletest-download/CMakeFiles/googletest"
+		},
+		{
+			"file" : "D:/Arquivos/Comp/CES-12/lab1hash200313_2221/build/googletest-download/CMakeFiles/googletest.rule"
+		},
+		{
+			"file" : "D:/Arquivos/Comp/CES-12/lab1hash200313_2221/build/googletest-download/CMakeFiles/googletest-complete.rule"
+		},
+		{
+			"file" : "D:/Arquivos/Comp/CES-12/lab1hash200313_2221/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install.rule"
+		},
+		{
+			"file" : "D:/Arquivos/Comp/CES-12/lab1hash200313_2221/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule"
+		},
+		{
+			"file" : "D:/Arquivos/Comp/CES-12/lab1hash200313_2221/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download.rule"
+		},
+		{
+			"file" : "D:/Arquivos/Comp/CES-12/lab1hash200313_2221/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update.rule"
+		},
+		{
+			"file" : "D:/Arquivos/Comp/CES-12/lab1hash200313_2221/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch.rule"
+		},
+		{
+			"file" : "D:/Arquivos/Comp/CES-12/lab1hash200313_2221/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure.rule"
+		},
+		{
+			"file" : "D:/Arquivos/Comp/CES-12/lab1hash200313_2221/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build.rule"
+		},
+		{
+			"file" : "D:/Arquivos/Comp/CES-12/lab1hash200313_2221/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest"
+		],
+		"name" : "googletest"
+	}
+}
