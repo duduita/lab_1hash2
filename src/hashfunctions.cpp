@@ -19,13 +19,16 @@
  * \return the hash value of the input string
  */
 int hashdiv(std::string str, int m ) {
-    
     // IMPLEMENTE HASH POR DIVISAO (com soma, nao XOR)
     // obviamente, considere todos os caracteres
     // usar so o primeiro caractere eh so um exemplo didatico do que NAO fazer,
     // seria estupido demais para usar na pratica.
-    
-    return 0;
+    int b;
+    int count = 0;
+    b = x.length();
+    for(int i=0; i<b; i++)
+        count += int(x[i]); 
+    return (count % m); 
     // porque existe 'return 0' neste codigo? 
     // para executar os testes, mesmo falhando, eh preciso compilar
     // assim, eh preciso retornar algum valor.
