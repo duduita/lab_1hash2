@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-D:/Arquivos/Comp/CES-12/lab1hash200313_2221/build/googletest-src/googlemock/src/gmock_main.cc
+D:/Arquivos/Comp/CES-12/lab_1hash2/build/googletest-src/googlemock/src/gmock_main.cc
 iostream
 -
 gmock/gmock.h
-D:/Arquivos/Comp/CES-12/lab1hash200313_2221/build/googletest-src/googlemock/src/gmock/gmock.h
+D:/Arquivos/Comp/CES-12/lab_1hash2/build/googletest-src/googlemock/src/gmock/gmock.h
 gtest/gtest.h
-D:/Arquivos/Comp/CES-12/lab1hash200313_2221/build/googletest-src/googlemock/src/gtest/gtest.h
+D:/Arquivos/Comp/CES-12/lab_1hash2/build/googletest-src/googlemock/src/gtest/gtest.h
 tchar.h
 -
 

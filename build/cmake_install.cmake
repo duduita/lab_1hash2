@@ -1,4 +1,4 @@
-# Install script for directory: D:/Arquivos/Comp/CES-12/lab1hash200313_2221
+# Install script for directory: D:/Arquivos/Comp/CES-12/lab_1hash2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("D:/Arquivos/Comp/CES-12/lab1hash200313_2221/build/googletest-build/cmake_install.cmake")
+  include("D:/Arquivos/Comp/CES-12/lab_1hash2/build/googletest-build/cmake_install.cmake")
 
 endif()
 
@@ -46,5 +46,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Arquivos/Comp/CES-12/lab1hash200313_2221/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Arquivos/Comp/CES-12/lab_1hash2/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
